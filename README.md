@@ -2,8 +2,8 @@
 
 ### Interactive Coding Learning Platform
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge)](https://rafi-ramadhan-999.github.io/NgodingYuk/)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/rafi-ramadhan-999/NgodingYuk)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge)](https://icyHollow2627.github.io/NgodingYuk/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/icyHollow2627/NgodingYuk)
 
 **Akses website:** https://rafi-ramadhan-999.github.io/NgodingYuk/
 
@@ -62,10 +62,10 @@ Pembagian kontribusi:
 
 - **Ide dan konsep proyek:** 100% oleh Rafi Ramadhan.
 - **Arah dan perencanaan fitur:** Rafi Ramadhan.
-- **Implementasi source code:** 100% dihasilkan dengan bantuan AI.
-- **Pendekatan pengembangan:** AI-assisted development.
+- **Implementasi source code:** 40% dihasilkan dengan bantuan AI.
+- **Pendekatan pengembangan:** sedikit AI-assisted development.
 
-AI digunakan sebagai alat bantu implementasi untuk menyelesaikan proyek dalam batas waktu satu hari, berdasarkan konsep, kebutuhan, dan arahan dari penggagas proyek.
+AI digunakan sebagai alat bantu implementasi untuk menyelesaikan proyek dalam batas waktu 10 hari, berdasarkan konsep, kebutuhan, dan arahan dari penggagas proyek.
 
 ## Developer
 
@@ -73,8 +73,8 @@ AI digunakan sebagai alat bantu implementasi untuk menyelesaikan proyek dalam ba
 Mahasiswa Teknik Informatika  
 Universitas Malikussaleh
 
-- **Repository:** https://github.com/rafi-ramadhan-999/NgodingYuk
-- **Live Demo:** https://rafi-ramadhan-999.github.io/NgodingYuk/
+- **Repository:** https://github.com/icyHollow2627/NgodingYuk
+- **Live Demo:** https://icyHollow2627.github.io/NgodingYuk/
 
 ## Copyright
 
